@@ -13,7 +13,6 @@ const News = () => {
       setMyNews(data.articles);
     } catch (error) {
       console.error("Error fetching data:", error);
-      // Handle the error appropriately, e.g., show an error message to the user
     }
   };
 
@@ -47,3 +46,4 @@ const News = () => {
 };
 
 export default News;
+
