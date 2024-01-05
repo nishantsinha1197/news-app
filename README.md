@@ -13,3 +13,7 @@ Used bootstrap for designing the layout
 ## Running command
 
 npm start
+
+
+## Firebase deployment
+https://news-app-f68e2.web.app/
